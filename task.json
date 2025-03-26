@@ -3,32 +3,24 @@
     "id": 1,
     "title": "Complete math assignment",
     "description": "Solve all exercises from chapter 5.",
-    "completed": false
+    "completed": false,
+    "dueDate": "2025-03-27T00:00:00Z",
+    "recurrence": "daily"
   },
   {
     "id": 2,
     "title": "Prepare project report",
     "description": "Summarize progress and key findings for submission.",
-    "completed": true
+    "completed": true,
+    "dueDate": "2025-03-30T00:00:00Z",
+    "recurrence": "weekly"
   },
-  {
+  { 
     "id": 3,
-    "title": "Organize work files",
-    "description": "Sort and archive old documents in the drive.",
-    "completed": false
-  },
-  {
-    "id": 4,
-    "title": "Practice guitar chords",
-    "description": "Learn and master three new chords.",
-    "completed": false
-  },
-  {
-    "id": 5,
-    "title": "Write a short story",
-    "description": "Draft a 500-word story for personal blog.",
-    "completed": true
+    "title": "Watch Anime",
+    "description": "Solo Leveling Season 2 Episode 12.",
+    "completed": true,
+    "dueDate": "2025-03-30T00:00:00Z",
+    "recurrence": "weekly"
   }
 ]
-
-  
