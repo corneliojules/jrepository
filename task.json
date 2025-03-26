@@ -1,26 +1,34 @@
-{
-    "tasks": [
-      {
-        "id": 1,
-        "title": "Finish Writing Blog Post",
-        "description": "Write and publish blog post on Flutter Basics",
-        "status": "In Progress",
-        "dueDate": "2024-03-22"
-      },
-      {
-        "id": 2,
-        "title": "Call Dentist",
-        "description": "Schedule appointment for cleaning",
-        "status": "Pending",
-        "dueDate": "2024-03-19"
-      },
-      {
-        "id": 3,
-        "title": "Complete Online Course",
-        "description": "Finish Module 5 of JavaScript Mastery Course",
-        "status": "Completed",
-        "dueDate": "2024-03-15"
-      }
-    ]
+[
+  {
+    "id": 1,
+    "title": "Complete math assignment",
+    "description": "Solve all exercises from chapter 5.",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Prepare project report",
+    "description": "Summarize progress and key findings for submission.",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Organize work files",
+    "description": "Sort and archive old documents in the drive.",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Practice guitar chords",
+    "description": "Learn and master three new chords.",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Write a short story",
+    "description": "Draft a 500-word story for personal blog.",
+    "completed": true
   }
+]
+
   
