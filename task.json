@@ -25,32 +25,5 @@
     "startDate": "2025-03-28T00:00:00Z",
     "endDate": "2025-03-30T00:00:00Z",
     "recurrence": "weekly"
-  },
-  {
-    "id": 4,
-    "title": "Grocery Shopping",
-    "description": "Buy ingredients for the week.",
-    "completed": false,
-    "startDate": "2025-03-29T00:00:00Z",
-    "endDate": "2025-03-29T00:00:00Z",
-    "recurrence": "daily"
-  },
-  {
-    "id": 5,
-    "title": "Attend a Mass Together with Friends",
-    "description": "Attend a mass in Cathedral Virac Catanduanes.",
-    "completed": false,
-    "startDate": "2025-03-30T00:00:00Z",
-    "endDate": "2025-03-30T00:00:00Z",
-    "recurrence": "weekly"
-  },
-  {
-    "id": 6,
-    "title": "Read a Book",
-    "description": "Finish reading 'The Alchemist'.",
-    "completed": false,
-    "startDate": "2025-03-31T00:00:00Z",
-    "endDate": "2025-04-07T00:00:00Z",
-    "recurrence": "weekly"
-  },
+  } 
 ]
