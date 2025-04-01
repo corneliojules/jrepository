@@ -53,22 +53,4 @@
     "endDate": "2025-04-07T00:00:00Z",
     "recurrence": "weekly"
   },
-  {
-    "id": 7,
-    "title": "Clean the House",
-    "description": "Do a thorough cleaning of the house.",
-    "completed": false,
-    "startDate": "2025-04-01T00:00:00Z",
-    "endDate": "2025-04-01T00:00:00Z",
-    "recurrence": "monthly"
-  },
-  {
-    "id": 8,
-    "title": "Plan Birthday Party",
-    "description": "Organize details for the upcoming birthday party.",
-    "completed": false,
-    "startDate": "2025-04-02T00:00:00Z",
-    "endDate": "2025-04-10T00:00:00Z",
-    "recurrence": "weekly"
-  }
 ]
