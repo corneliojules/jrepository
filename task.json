@@ -6,7 +6,7 @@
     "completed": false,
     "startDate": "2025-03-25T00:00:00Z",
     "endDate": "2025-03-27T00:00:00Z",
-    "recurrence": "daily"
+    "recurrence": "Daily"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "completed": true,
     "startDate": "2025-03-28T00:00:00Z",
     "endDate": "2025-03-30T00:00:00Z",
-    "recurrence": "weekly"
+    "recurrence": "Weekly"
   },
   {
     "id": 3,
@@ -24,6 +24,6 @@
     "completed": true,
     "startDate": "2025-03-28T00:00:00Z",
     "endDate": "2025-03-30T00:00:00Z",
-    "recurrence": "weekly"
+    "recurrence": "Weekly"
   } 
 ]
